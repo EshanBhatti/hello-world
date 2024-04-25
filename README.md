@@ -1,2 +1,3 @@
 # hello-world
-This is my first GitHub repository
+
+These are my changes to the hello world file.
